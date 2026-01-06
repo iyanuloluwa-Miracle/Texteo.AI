@@ -3,7 +3,7 @@
     <Navbar />
     
     <main class="min-h-screen">
-      <!-- Your page content goes here -->
+      <Hero />
     </main>
   </div>
 </template>
