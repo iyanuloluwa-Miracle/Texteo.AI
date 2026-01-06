@@ -1,7 +1,7 @@
 <template>
-  <div class="relative max-w-5xl mx-auto">
+  <div class="relative max-w-5xl mx-auto px-2 sm:px-0">
     <!-- Browser Window Frame -->
-    <div class="bg-white rounded-lg sm:rounded-xl md:rounded-2xl shadow-2xl overflow-hidden border border-gray-200">
+    <div class="bg-white rounded-lg sm:rounded-xl md:rounded-2xl shadow-2xl overflow-hidden border border-gray-200 w-full">
       <!-- Browser Header -->
       <div class="bg-gray-100 px-3 sm:px-4 py-2.5 sm:py-3 flex items-center gap-2 border-b border-gray-200">
         <div class="flex gap-1.5 sm:gap-2">
