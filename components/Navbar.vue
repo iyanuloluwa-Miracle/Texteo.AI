@@ -5,16 +5,16 @@
         <NavbarLogo />
         
         <!-- Desktop Navigation -->
-        <NavbarLinks class="hidden lg:flex" />
+        <NavbarLinks class="hidden md:flex" />
         
         <!-- Desktop CTA -->
-        <div class="hidden lg:block">
+        <div class="hidden md:block">
           <CTAButton />
         </div>
         
         <!-- Mobile Menu Button - Only show on mobile/tablet -->
         <MobileMenuButton 
-          class="lg:hidden"
+          class="md:hidden"
           :is-open="isMobileMenuOpen" 
           @toggle="toggleMobileMenu"
         />

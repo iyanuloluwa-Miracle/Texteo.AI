@@ -4,7 +4,10 @@
     
     <main class="min-h-screen overflow-x-hidden">
       <Hero />
+      <Stats />
+      <HowItWorks />
       <Features />
+      <Testimonials />
       <CTASection />
     </main>
   </div>
