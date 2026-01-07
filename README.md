@@ -1,6 +1,10 @@
-# Nuxt Minimal Starter
+# Texteo.ai
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+AI-Powered Social Media Content Generator - Create engaging social posts in seconds for LinkedIn, Twitter, and Instagram.
+
+## About
+
+Texteo.ai helps you generate high-quality social media content using AI. Save time, boost engagement, and never run out of content ideas.
 
 ## Setup
 
@@ -72,4 +76,12 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Tech Stack
+
+- **Framework**: Nuxt 3
+- **Styling**: Tailwind CSS 4
+- **Font**: Bricolage Grotesque
+
+## Learn More
+
+Check out the [Nuxt documentation](https://nuxt.com/docs/getting-started/deployment) for deployment information.
