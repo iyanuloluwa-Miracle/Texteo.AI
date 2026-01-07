@@ -50,10 +50,10 @@ const emit = defineEmits<{
 }>();
 
 const navLinks: NavLink[] = [
-  { name: 'Demos', href: '#demos' },
-  { name: 'Pages', href: '#pages' },
-  { name: 'Support', href: '#support' },
-  { name: 'Contact', href: '#contact' },
+  { name: 'Features', href: '#features' },
+  { name: 'Pricing', href: '#pricing' },
+  { name: 'Resources', href: '#resources' },
+  { name: 'Login', href: '/login' },
 ];
 
 const handleCTAClick = () => {

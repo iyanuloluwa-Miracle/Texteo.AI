@@ -8,12 +8,13 @@
         <NavbarLinks class="hidden lg:flex" />
         
         <!-- Desktop CTA -->
-        <div class="hidden md:block">
+        <div class="hidden lg:block">
           <CTAButton />
         </div>
         
-        <!-- Mobile Menu Button -->
+        <!-- Mobile Menu Button - Only show on mobile/tablet -->
         <MobileMenuButton 
+          class="lg:hidden"
           :is-open="isMobileMenuOpen" 
           @toggle="toggleMobileMenu"
         />
